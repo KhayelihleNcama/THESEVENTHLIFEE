@@ -29,7 +29,7 @@ ProjectSettings/ Unity project configuration
 
 | Action | Key |
 | ------ | --- |
-| Move   | W |
+| Move   | W,A,S,D |
 | Jump   | J |
 | Attack | space bar |
 
